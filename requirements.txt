@@ -1,0 +1,6 @@
+pandas~=1.1.4
+allure-pytest
+playwright
+psycopg2~=2.8.6
+pytest~=6.1.2
+pytest-playwright
